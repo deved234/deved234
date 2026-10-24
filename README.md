@@ -1,4 +1,10 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Hi, I'm David Atef 👋</h1>
+
+<p align="center">
+  <b>Front-end developer</b> in Assiut, Egypt. I build <b>animated marketing sites and product front-ends</b> with React, Next.js and plain JavaScript: scroll-driven storytelling, interactive product pages and fast, responsive UI in Arabic and English.
+  <br />
+  Currently a Frontend Developer Trainee at <b>Reservya</b>. Open to freelance and full-time front-end roles.
+</p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
@@ -29,7 +35,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="angularjs logo" />
+  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angular logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="60" alt="redux logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=electron" height="60" alt="electron logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo" />
 </div>
 
 ---
